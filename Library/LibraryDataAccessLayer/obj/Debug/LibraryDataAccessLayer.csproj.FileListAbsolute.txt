@@ -1,0 +1,30 @@
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.pdb
+E:\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.dll
+E:\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+E:\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+E:\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.dll
+E:\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.pdb
+C:\Users\G.B\source\repos\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.dll
+C:\Users\G.B\source\repos\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+C:\Users\G.B\source\repos\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\G.B\source\repos\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\G.B\source\repos\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.dll
+C:\Users\G.B\source\repos\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.pdb
+C:\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.dll
+C:\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+C:\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+C:\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.dll
+C:\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryDataAccessLayer\obj\Debug\LibraryDataAccessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryDataAccessLayer\bin\Debug\LibraryDataAccessLayer.pdb

@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F1A368D-9FDD-4E7B-82BF-8571154010EE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Library</RootNamespace>
+    <AssemblyName>Library</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\WindowsFormsApp2\packages\Guna.UI2.WinForms.2.0.4.6\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsShowScreens.cs" />
+    <Compile Include="clsValidaited.cs" />
+    <Compile Include="Books\frmAddAndUpdateBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Books\frmAddAndUpdateBooks.Designer.cs">
+      <DependentUpon>frmAddAndUpdateBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authors\frmAddAndUpdateAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authors\frmAddAndUpdateAuthor.Designer.cs">
+      <DependentUpon>frmAddAndUpdateAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borroing\frmAddAndUpdateBorroing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borroing\frmAddAndUpdateBorroing.Designer.cs">
+      <DependentUpon>frmAddAndUpdateBorroing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employeess\frmAddAndUpdateEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employeess\frmAddAndUpdateEmployees.Designer.cs">
+      <DependentUpon>frmAddAndUpdateEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainHome.Designer.cs">
+      <DependentUpon>frmMainHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Geners\frmAddAndUpdateGener.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Geners\frmAddAndUpdateGener.Designer.cs">
+      <DependentUpon>frmAddAndUpdateGener.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home\frmHomeForMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home\frmHomeForMember.Designer.cs">
+      <DependentUpon>frmHomeForMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\frmAddAndUpdateMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members\frmAddAndUpdateMembers.Designer.cs">
+      <DependentUpon>frmAddAndUpdateMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseravtiones\frmAddAndUpdateReseravtone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseravtiones\frmAddAndUpdateReseravtone.Designer.cs">
+      <DependentUpon>frmAddAndUpdateReseravtone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authors\frmAuthorDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authors\frmAuthorDetails.Designer.cs">
+      <DependentUpon>frmAuthorDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fines\frmCirculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fines\frmCirculation.Designer.cs">
+      <DependentUpon>frmCirculation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainScreen.Designer.cs">
+      <DependentUpon>frmMainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authors\frmScreenAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authors\frmScreenAuthor.Designer.cs">
+      <DependentUpon>frmScreenAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Books\frmScreenBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Books\frmScreenBooks.Designer.cs">
+      <DependentUpon>frmScreenBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\frmScreenBooksForMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members\frmScreenBooksForMembers.Designer.cs">
+      <DependentUpon>frmScreenBooksForMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borroing\frmScreenBorroingforMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borroing\frmScreenBorroingforMember.Designer.cs">
+      <DependentUpon>frmScreenBorroingforMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employeess\frmScreenEmployeess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employeess\frmScreenEmployeess.Designer.cs">
+      <DependentUpon>frmScreenEmployeess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fines\frmScreenFineForMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fines\frmScreenFineForMember.Designer.cs">
+      <DependentUpon>frmScreenFineForMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Geners\frmScreenGeners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Geners\frmScreenGeners.Designer.cs">
+      <DependentUpon>frmScreenGeners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\frmScreenMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members\frmScreenMembers.Designer.cs">
+      <DependentUpon>frmScreenMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employeess\frmScreenProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employeess\frmScreenProfile.Designer.cs">
+      <DependentUpon>frmScreenProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseravtiones\frmScreenResseravionForMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseravtiones\frmScreenResseravionForMember.Designer.cs">
+      <DependentUpon>frmScreenResseravionForMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Geners\frmShowBooksGener.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Geners\frmShowBooksGener.Designer.cs">
+      <DependentUpon>frmShowBooksGener.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Books\frmShowDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Books\frmShowDetails.Designer.cs">
+      <DependentUpon>frmShowDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fines\frmShowDetailsFines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fines\frmShowDetailsFines.Designer.cs">
+      <DependentUpon>frmShowDetailsFines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borroing\frmShowDetailsOfBorroingcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borroing\frmShowDetailsOfBorroingcs.Designer.cs">
+      <DependentUpon>frmShowDetailsOfBorroingcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Books\frmAddAndUpdateBooks.resx">
+      <DependentUpon>frmAddAndUpdateBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authors\frmAddAndUpdateAuthor.resx">
+      <DependentUpon>frmAddAndUpdateAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borroing\frmAddAndUpdateBorroing.resx">
+      <DependentUpon>frmAddAndUpdateBorroing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employeess\frmAddAndUpdateEmployees.resx">
+      <DependentUpon>frmAddAndUpdateEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainHome.resx">
+      <DependentUpon>frmMainHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Geners\frmAddAndUpdateGener.resx">
+      <DependentUpon>frmAddAndUpdateGener.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home\frmHomeForMember.resx">
+      <DependentUpon>frmHomeForMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\frmAddAndUpdateMembers.resx">
+      <DependentUpon>frmAddAndUpdateMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reseravtiones\frmAddAndUpdateReseravtone.resx">
+      <DependentUpon>frmAddAndUpdateReseravtone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authors\frmAuthorDetails.resx">
+      <DependentUpon>frmAuthorDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fines\frmCirculation.resx">
+      <DependentUpon>frmCirculation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainScreen.resx">
+      <DependentUpon>frmMainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authors\frmScreenAuthor.resx">
+      <DependentUpon>frmScreenAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Books\frmScreenBooks.resx">
+      <DependentUpon>frmScreenBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\frmScreenBooksForMembers.resx">
+      <DependentUpon>frmScreenBooksForMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borroing\frmScreenBorroingforMember.resx">
+      <DependentUpon>frmScreenBorroingforMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employeess\frmScreenEmployeess.resx">
+      <DependentUpon>frmScreenEmployeess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fines\frmScreenFineForMember.resx">
+      <DependentUpon>frmScreenFineForMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Geners\frmScreenGeners.resx">
+      <DependentUpon>frmScreenGeners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\frmScreenMembers.resx">
+      <DependentUpon>frmScreenMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employeess\frmScreenProfile.resx">
+      <DependentUpon>frmScreenProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reseravtiones\frmScreenResseravionForMember.resx">
+      <DependentUpon>frmScreenResseravionForMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Geners\frmShowBooksGener.resx">
+      <DependentUpon>frmShowBooksGener.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Books\frmShowDetails.resx">
+      <DependentUpon>frmShowDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fines\frmShowDetailsFines.resx">
+      <DependentUpon>frmShowDetailsFines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borroing\frmShowDetailsOfBorroingcs.resx">
+      <DependentUpon>frmShowDetailsOfBorroingcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="LibraryBusinessLayer\LibraryBusinessLayer.csproj">
+      <Project>{b1190777-03d4-4bb3-b182-0ace47348a8f}</Project>
+      <Name>LibraryBusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

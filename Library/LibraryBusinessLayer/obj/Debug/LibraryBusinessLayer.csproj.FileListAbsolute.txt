@@ -1,0 +1,45 @@
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.pdb
+E:\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.dll
+E:\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.pdb
+E:\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.dll
+E:\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+E:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+E:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
+E:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.dll
+E:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.pdb
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.dll
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.pdb
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.dll
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.dll
+C:\Users\G.B\source\repos\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.pdb
+C:\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.dll
+C:\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.pdb
+C:\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.dll
+C:\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+C:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+C:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
+C:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.dll
+C:\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\bin\Debug\LibraryDataAccessLayer.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\First Project Library\Library\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
